@@ -1,2 +1,4 @@
-# github-practice
-Learning github from basics
+##### this repo is for learning git and GitHub from basics.
+
+
+
